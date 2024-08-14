@@ -23,8 +23,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/a
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Speed-Hub-X/main/Interface.lua"))()
 repeat wait() until game:IsLoaded()
 local Window = SpeedHubX:CreateWindow({
-    Title = "Banana Hub",
-    SubTitle = "| By Kaz ( Kaz Nè )",
+    Title = "Banana Hub Kaz",
+    SubTitle = "| By Kaz ( Kaz Nè ) |",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = true,
